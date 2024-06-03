@@ -1,4 +1,3 @@
-
 /* 
 
     You can write your own styles here...
@@ -10,3 +9,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.grayBackground {
+  background-color: #eaecef;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+  /* position: absolute; */
+  bottom: 0;
+  width: 100%;
+}
